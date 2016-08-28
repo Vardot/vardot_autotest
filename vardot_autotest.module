@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Vardot Autotest feature.
+ */
+
+include_once 'vardot_autotest.features.inc';
