@@ -21,7 +21,7 @@ function vardot_autotest_strongarm() {
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'behat_ui_behat_config_path';
-  $strongarm->value = '/var/www/html/testing/behat';
+  $strongarm->value = '/var/www/html/working/behat';
   $export['behat_ui_behat_config_path'] = $strongarm;
 
   $strongarm = new stdClass();

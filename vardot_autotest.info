@@ -5,7 +5,6 @@ package = Vardot
 version = 7.x-3.0
 dependencies[] = behat_ui
 dependencies[] = ctools
-dependencies[] = drulenium_visual_regression
 dependencies[] = strongarm
 features[ctools][] = strongarm:strongarm:1
 features[features_api][] = api:2
